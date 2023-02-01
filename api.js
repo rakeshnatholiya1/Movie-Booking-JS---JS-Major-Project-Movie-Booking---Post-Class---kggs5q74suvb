@@ -31,4 +31,4 @@ const fetchMovieAvailability = async (movieName) => {
     })
 }
 
-export { fetchMovieList, fetchMovieAvailability }
+export { fetchMovieList, fetchMovieAvailability  }
